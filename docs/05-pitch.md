@@ -1,19 +1,16 @@
 # Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
 > Qual dor do cliente você resolve?
 
-[Sua descrição aqui]
+Dúvidas em quais produtos financeiros pode aplicar recursos.
 
 ### 2. A Solução (1 min)
 > Como seu agente resolve esse problema?
 
-[Sua descrição aqui]
+Informa as opções de investimentos disponíveis de acordo com o perfil de investimento do cliente.
 
 ### 3. Demonstração (1 min)
 > Mostre o agente funcionando (pode ser gravação de tela)
