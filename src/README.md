@@ -15,25 +15,6 @@ src/
 ```
 
 ## Como rodar
-streamlit run app.py
-
-
-
-
-## Exemplo de requirements.txt
-
-```
-streamlit
-openai
-python-dotenv
-```
-
-## Como Rodar
-
-```bash
-# Instalar dependências
-pip install -r requirements.txt
-
-# Rodar a aplicação
-streamlit run app.py
-```
+***bash
+- instalar dependências
+- streamlit run app.py
