@@ -17,4 +17,4 @@ src/
 ## Como rodar
 ***bash
 - instalar dependências
-- streamlit run app.py
+- streamlit run .\src\app.py
