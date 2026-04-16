@@ -20,7 +20,7 @@ Informa as opções de investimentos disponíveis de acordo com o perfil de inve
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+Integra os investimentos disponíveis ao perfil de investidor do cliente.
 
 ---
 
